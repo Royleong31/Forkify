@@ -21,7 +21,6 @@ const controlRecipes = async function () {
     const id = window.location.hash.slice(1);
 
     if (!id) {
-      alert('No id given');
       return;
     }
 
