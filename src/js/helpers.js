@@ -9,6 +9,8 @@ const timeout = function (s) {
   });
 };
 
+// THIS IS A TEST
+
 // export const AJAX = async function(url, uploadData = undefined) {
 //   const fetchPro = uploadData ?
 // }
